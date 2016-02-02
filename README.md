@@ -2,4 +2,8 @@
 Creating a new branch is quick.
 ##test
 ###learn to use git
-###2016/1/30 还有一周就放假了，开心！
+##无序列表
+* 1 git clone
+* 2 git add
+* 3 git commit
+* 4 git push
