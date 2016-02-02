@@ -22,9 +22,9 @@ learn to use git
 |l2        |l2    |l2  |
 
 ## 代码框
-`var name = 'luhx';
- var age = '24';
- var getInfo = function() {
-   console.log('name: ' + name);
-   console.log('age: ' + age);
- };`
+`var name = 'luhx';`
+`var age = '24';`
+`var getInfo = function() {`
+   `console.log('name: ' + name);`
+   `console.log('age: ' + age);`
+`};`
