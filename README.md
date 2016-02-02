@@ -16,15 +16,15 @@ learn to use git
 [baidu](http://baidu.com)
 
 ## 表格
-|Tables    |c1    |c2  |
+| Tables   | c1   | c2 |
 |----------|:----:|---:|
 |l1        |l1    |l1  |
 |l2        |l2    |l2  |
 
 ## 代码框
-'var name = 'luhx';
+`var name = 'luhx';
  var age = '24';
  var getInfo = function() {
    console.log('name: ' + name);
    console.log('age: ' + age);
- };'
+ };`
