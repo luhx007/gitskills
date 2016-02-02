@@ -1,7 +1,6 @@
 # gitskills
 Creating a new branch is quick.
-##test
-###learn to use git
+learn to use git
 ##无序列表
 * 1 git clone
 * 2 git add
